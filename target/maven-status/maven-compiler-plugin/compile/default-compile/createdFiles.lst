@@ -3,3 +3,4 @@ com/boot/model/Shipwreck.class
 com/boot/App.class
 com/boot/controller/ShipwreckStub.class
 com/boot/controller/HomeController.class
+com/boot/configuration/PersistenceConfiguration.class
