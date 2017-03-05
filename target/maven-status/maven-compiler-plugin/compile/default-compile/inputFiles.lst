@@ -1,6 +1,7 @@
 /Users/Tiago/git/Das-boot/src/main/java/com/boot/controller/ShipwreckController.java
 /Users/Tiago/git/Das-boot/src/main/java/com/boot/controller/HomeController.java
 /Users/Tiago/git/Das-boot/src/main/java/com/boot/controller/ShipwreckStub.java
+/Users/Tiago/git/Das-boot/src/main/java/com/boot/repository/ShipwreckRepository.java
 /Users/Tiago/git/Das-boot/src/main/java/com/boot/configuration/PersistenceConfiguration.java
 /Users/Tiago/git/Das-boot/src/main/java/com/boot/App.java
 /Users/Tiago/git/Das-boot/src/main/java/com/boot/model/Shipwreck.java
